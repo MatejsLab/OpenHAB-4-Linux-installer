@@ -1,9 +1,9 @@
 This is script for installing OpenHAB 4, writen by Matej, based on OpenHAB docs. 
        
  Installing:
-            * Java 17 
-            * OpenHAB 4 
-            * permissions (755) on [/etc/openhab]. 
+* Java 17 
+* OpenHAB 4 
+* permissions (755) on [/etc/openhab]. 
 
 
  DISCLAIMER !
