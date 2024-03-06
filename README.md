@@ -1,6 +1,6 @@
 This is script for installing OpenHAB 4, writen by Matej, based on OpenHAB docs. 
 
-It is named: Namestitev_OH4_6.3.24.sh
+Script name: Namestitev_OH4_6.3.24.sh
        
  Installing:
 * Java 17 
